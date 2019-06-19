@@ -16,3 +16,11 @@ background-color: lightgray}
 
 
 h1{color: black;}
+
+.btnModificar{
+  background-color: blue
+}
+
+.btnEliminar{
+  background-color: red 
+}
